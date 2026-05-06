@@ -1,0 +1,47 @@
+[
+  {
+    "name": "abdul",
+    "age": 12,
+    "email": "abdul@gmail.com"
+  },
+  {
+    "name": "sam",
+    "age": 15,
+    "email": "sam@gmail.com"
+  },
+  {
+    "name": "daniel",
+    "age": 35,
+    "email": "daniel@gmail.com"
+  },
+  {
+    "name": "teai",
+    "age": 4,
+    "email": "teai@gmail.com"
+  },
+  {
+    "name": "tei",
+    "age": 6,
+    "email": "tei@gmail.com"
+  },
+  {
+    "name": "eti",
+    "age": 65,
+    "email": "eti@gmail.com"
+  },
+  {
+    "name": "ein",
+    "age": 70,
+    "email": "ein@gmail.com"
+  },
+  {
+    "name": "ein",
+    "age": 70,
+    "email": "ein@gmail.com"
+  },
+  {
+    "name": "einyt",
+    "age": 13,
+    "email": "einyt@gmail.com"
+  }
+]
