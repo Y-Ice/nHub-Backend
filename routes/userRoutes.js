@@ -134,5 +134,4 @@ router.delete('/:id', (req, res) => {
     });
 });
 
-// this is use top export the router to be used in other files, such as server.js
 module.exports = router;
